@@ -1,0 +1,72 @@
+.row {
+  padding-top: 120px;
+  text-align: center;
+}
+
+.navbar-nav > li > a, .navbar-brand {
+  padding-top:5px !important; padding-bottom:0 !important;
+  height: 70px;
+  line-height: 60px;
+}
+.navbar {
+  min-height:30px !important;
+}
+
+.text-align {
+  line-height: 40px;
+}
+
+#uikit {
+  height: 670px;
+  background-image: url("http://images4.alphacoders.com/641/641848.jpg");
+  background-size: cover;
+  font-family: 'Rosario', sans-serif;
+  color: white;
+  padding: 120px 200px 200px 200px;
+}
+
+
+.info {
+  padding-top: 20px;
+  font-size: 15px;
+}
+
+#meep {
+  padding: 0px 0px 0px 160px;
+  margin: auto;
+}
+
+.well {
+  padding: 5px;
+  color: black;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+
+#features {
+  height: 630px;
+  background-color: mediumpurple;
+  background-size: cover;
+  font-family: 'Rosario', sans-serif;
+  color: white;
+  padding: 120px 200px 200px 200px;
+}
+
+#getinvolved {
+  height: 500px;
+  background-color: white;
+}
+
+#opensource {
+  height: 500px;
+  background-color: lightblue;
+}
+
+#footer {
+  height: 300px;
+  background-color: black;
+}
+
